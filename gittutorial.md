@@ -7,7 +7,7 @@
 * ```git add . ``` this allows you to add all modified and untracked files in the directory and prepares them for the commit. You can also use ```git add -A```.
 * ```git commit -m "commit comment"``` this commits your changes made with a short comment about what changes were made.
 * ```git push``` pushes your changes to the remote repository. ```git push -u origin branchName``` pushes changes to the specified branch name. In our case, the ```master``` branch. 
-##### For more Git commands see [this](https://github.com/joshnh/Git-Commands) link. [^2 "These are only some commonly used commands. Make sure to look up other commands as you see fit."] 
+##### For more Git commands see [this](https://github.com/joshnh/Git-Commands) link.
 ---
 #### 1. Make a GitHub Repository
 * The first step is to create a GitHub Account if you haven't already 
