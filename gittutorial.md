@@ -28,4 +28,5 @@
     * To commit changes, you first need to prepare the changes to be committed using ```git add . ``` or ```git add -A```
     * Next, you'll want to commit the changes using ```git commit -m "commit description"```. 
     * Finally, you can push the commit to the master branch or whichever branch you made to edit on. To do this, type ```git push -u origin master```. 
+* Then all that's left is to refresh the page to see your changes and make other changes as necessary and repeat adding, committing, and pushing the changes to the repository. 
 
