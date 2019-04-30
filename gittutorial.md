@@ -8,4 +8,4 @@
     * You can initialize the repository with a README to help with instructions.
 * Next open up Terminal by pressing ```command+space``` and typing in terminal
     * Change to the directory you want the project to be on with ```cd``` and then the name of the directory. For example: ```cd Desktop/ ``` 
-* Now to clone your repository to the selected directory type ```git clone *https://LinkToYourGitHubRepository*```
+* Now to clone your repository to the selected directory type <pre><i>git clone *https://LinkToYourGitHubRepository</i></pre>
